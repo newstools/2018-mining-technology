@@ -1,0 +1,27 @@
+        For the past 2,000 years, mining waste has been running into the sea off Cornwall, UK, carrying with it particles of tin considered too difficult to be processed and so abandoned. As part of a recycling project, Marine Minerals plans to recover the residual metal building up in the sands on the seafloor. Will they yield enough tin to make the process worthwhile? We find out. Also looking to alternative mineral deposits, we examine a scheme to create a database of technology waste dumps which could represent very valuable sources of secondary materials. Meanwhile, further afield we consider the chance of the Democratic Republic of Congo reviewing its mining code and the potential impact on foreign investment, delve into the details of Canada’s ‘Towards Sustainable Mining’ initiative, and speak to risk management consultancy Critical Resource about how miners can manage political risk in the 21st Century. Plus, from the humble wooden cart to modern day unmanned electric vehicles, we trace the evolution of mining machines through time and celebrate the industry’s achievements in cutting edge technology. Click here to read the latest energy industry news and analysis, and join the conversation on Twitter. Managing risk and instability in the mining industry
+Navigating political and regulatory risk while operating abroad has become imperative for mining operators. Julian Turner talks to Rob Foulkes and Charlie Pembroke of consultancy Critical Resource about licence to operate issues and avoiding mistakes of the past.
+Click here to read Cultivating responsible mining in Canada and abroad
+The Philippine’s recently adopted Canada’s ‘Towards Sustainable Mining’ initiative, a standard which requires mining companies to annually assess their facilities’ performance in terms of tailings management, community outreach, safety and health, biodiversity conservation. While not a world first, what’s made this standard so popular and are other countries likely to follow?
+Click here to read Overhauling the DRC’s mining code
+The Democratic Republic of Congo’s state-owned mining company, Gécamines, has called for an overhaul of the country’s mining code as it doesn’t allow the country to benefit from its own resources. Instead, it claims foreign investors as the main winners of the commodities boom. Is it time for the 2002 mining code to be updated, and how much could this benefit the Congolese people?
+Click here to read Urban mines: tapping resources in world waste
+A number of European organisations recently came together to create the first database of valuable materials available for ‘urban mining’. Essentially, the map will identify streams of waste which contain useful minerals worth harvesting, such as batteries, electric cars and smartphones, thus allowing miners to identify new opportunities. We zone in on the various sources suitable for urban mining to explore these streams.
+Click here to read Recovering tin from the seafloor
+Cornwall-based Marine Minerals is preparing to recover tin from the seafloor. Over the past 2,000 years, mining waste has been discharged into this sea, with residual tin, previously considered too difficult to be processed, resulting in plans being abandoned. As part of a recycling project, this metal will now be recovered but just how much tin can be found on the sea floor?
+Click here to read Mining vehicles: a ride through time 
+From the iconic Minecart of the American Gold Rush to the unfathomably huge Bagger 288, and from the classic CAT 797 to today’s cutting-edge, unmanned electric vehicles, we trace the evolution of mining machines through time.
+Click here to read Blockchain is the latest data system to shake up traditional ways of operating, but can it actually help mining companies in a worthwhile way? The digital ledger system was originally created for cryptocurrency management, but has a number of applications for miners, including monitoring minerals and ores in the supply chain to boost efficiency and CSR. So, how would it work? We investigate. Focusing on change, we also assess the prospects for South Africa’s mining industry following the appointment of new President Cyril Ramaphosa, who is already working to resolve the impasse over the refreshed Mining Charter, and with miners in Ukraine once again on strike, we report on the massive payment arrears, mounting fears for the state, economy and its people, and where the country can go from here. We also find out how to make the most of the current commodities boom, consider the many impacts of using drones for mineral surveying, and learn what elements makes a strong mining brand. With the launch of our fantastic new website you can now read MINE Magazine for free across all devices, including mobile. It is still free to read and you can sign up for a subscription to get all the latest news, analysis and insight on the global energy industry delivered straight to your phone. You can also browse our archive to read back issues in our web viewer, available on desktop and on iPad.
+                                    
+									
+									jQuery( document ).ready(function() {
+										/* Companies carousel */
+										jQuery('.carousel').slick({
+										  dots: true,
+										  infinite: true,
+										  speed: 300,
+										  lazyLoad: 'ondemand',
+										  slidesToShow: 1,
+										  slidesToScroll: 1,
+										  adaptiveHeight: true
+										});
+									});
