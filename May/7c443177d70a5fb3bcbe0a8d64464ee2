@@ -1,0 +1,37 @@
+          Interest is heating up in Russia’s frozen north, but few have cracked the surface of this inhospitable region. Now, companies including Rio Tinto have begun expanding their exploration efforts, and we find out what challenges lay before them and what can they expect to encounter. Also easing access is Zimbabwe, aided by the appointment of new President Emmerson Mnangagwa. We ask if the recent deal for a $4.2bn platinum mine development signals an invitation for greater foreign investment. With the gemstone sector about to take off due to growing interest in diamond alternatives, we locate the discovery and excavation hotspots around the world. Also, we find out how Anglo American intends to fulfill its admirable yet ambitious new sustainability strategy goals, and look into the implications of Michelin Group’s plans to acquire UK-based conveyor belt maker, Fenner, as the former sets its sights on the mining materials market. And what’s being done to tackle widespread sexual misconduct in the mining industry? We speak to geologist Susan Lomas about her founding of the #MeTooMining Association and why the modern industry needs this vital movement. Click here to read the latest energy industry news and analysis, and join the conversation on Twitter. Using VR to get investors on site
+A new tech firm is helping mining companies attract investors through augmented and virtual reality site visits.
+Click to read
+
+A bird’s eye view of Greenland
+Bluejay Mining takes us on a tour of Greenland’s vast ilmenite titanium deposits.
+Watch the video #MeTooMining: tackling sexual misconduct in the mining industry
+30-year veteran Canadian geologist Susan Lomas has founded the Me Too Mining Association, inspired by the #MeToo movement, as a way to speak up about sexual misconduct in the mining sector. We speak to Lomas about her experiences in the industry and why she decided to raise her voice.
+Click to read Siberia: will the once-frozen wilderness give up its riches?
+Interest in Russia’s frozen north is hotting up, with major discoveries likely to become accessible due to the warming climate. Companies are starting to make moves, including Rio Tinto, which recently signed a joint venture agreement relating to three exploration licences in Serbia. So what are the challenges? We find out.
+Click to read
+
+Mining in Zimbabwe: life after Mugabe
+Cypriot investor Karo Resources recently signed a $4.2bn deal to develop a platinum mine and refinery in Zimbabwe, with first production expected in 2020. With the resignation of former President Robert Mugabe, the deal has been heralded as a sign that Zimbabwe is opening up to foreign investment and proactively developing its mining sector. Is a mining surge on the horizon for Zimbabwe?
+Click to read
+
+The sparkling future of the gem stone market
+The gem stone sector is set to boom as investors look to rare stones such as emeralds, sapphires and rubies as alternatives to often overinflated precious stones, like diamonds. To learn more about which gem stones are being sought after and where, we locate the hotspots of their discoveries and excavations.
+Click to read Will Anglo American’s new sustainability strategy  hold up?
+Anglo American’s recently launched sustainability strategy includes commitments to reduce greenhouse gas emissions by 30%, improve energy efficiency by 30%, reduce freshwater abstraction by 50% in water-scarce regions and create five jobs offsite for every job onsite in host communities. How will these admirable goals be achieved?
+Click to read Can Michelin make material changes in the mining market?
+Michelin Group has announced plans to acquire UK-based conveyor belt maker Fenner for $1.7bn. The deal will enable Michelin to go beyond the tire industry and expand its presence in the mining sector. MINE looks into the implications of the deal.
+Click to read Coal is never far from controversy and in this issue we take a look at some of the evolving challenges in maintaining the sector. In the US, a Government Accountability Office report has called for the elimination of self-bonding, saying that the practice can leave taxpayers with the clean-up bill if a firm can’t fund the reclamation, but will this proposal get far with the coal-friendly Trump administration? We examine the issues around coal mine self-bonding to ask if it needs to be cleaned up. And after much deliberation, BHP is leaving the World Coal Association (WCA) due to differing opinions on climate change. We weigh up the arguments and ask if BHP is doing the right thing. Also, we present the latest commodities likely to make a splash on the future market according to Deloitte’s mining trends report, investigate China’s move to monopolise cobalt with rumours of a takeover of one of the world’s biggest cobalt mines, and report on efforts to reboot Cuba’s mining industry. In technology, we take a look at advances in seismic activity tools and the reality of predicting major incidents to prevent injuries. With the launch of our fantastic new website you can now read MINE Magazine for free across all devices, including mobile. It is still free to read and you can sign up for a subscription to get all the latest news, analysis and insight on the global energy industry delivered straight to your phone. You can also browse our archive to read back issues in our web viewer, available on desktop and on iPad.
+                                    
+									
+									jQuery( document ).ready(function() {
+										/* Companies carousel */
+										jQuery('.carousel').slick({
+										  dots: true,
+										  infinite: true,
+										  speed: 300,
+										  lazyLoad: 'ondemand',
+										  slidesToShow: 1,
+										  slidesToScroll: 1,
+										  adaptiveHeight: true
+										});
+									});
