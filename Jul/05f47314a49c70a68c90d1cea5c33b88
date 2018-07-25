@@ -1,0 +1,15 @@
+ Data analytics is set to contribute £241bn to the UK economy between 2015 and 2020. This is equivalent to an average of 2.0% of GDP a year. But the Royal Statistical Society has noted that the UK faces a major gap in skills for the data economy. Andy Cotgreave, Technical Evangelist and Senior Director at Tableau Software, told Verdict: “Data skills are fundamental to Britain’s new, post Brexit economy – and action to address our data skills gap should be a core part of the Government’s new National Data Strategy.” In 2015 over half (56%) of businesses in the UK had adopted some form of big data analytics solutions and this figure is projected to grow. “Part of the challenge is that too often basic data literacy is seen as a specialist subject – a problem for a small group of ‘data’ businesses,” said Cotgreave. The forecast growth in the value and use of data analytics in the future is attributed to big companies across multiple industries adopting data analytics. This will result in increasing demand for data skills in the workforce. techUK analysis revealed the UK could create between 2.7 and 3.5 million new jobs by 2030, all requiring digital skills. The research has highlighted shortcomings in basic data literacy in the UK. The OECD Survey of Adult Skills states that there are particularly large proportions of adults in England and Northern Ireland with poor numeracy skills, among the lowest scoring across the OECD countries. This reveals a skills gap in the UK workforce that could prevent businesses from fully capitalising on data analytics. Data could provide an answer to the UK’s productivity gap with other countries if the data skills gap can be addressed. Investing in education and training will help support wider participation in data driven industries and support industry growth. Cotgreave suggests the Government’s strategy “should include data education from primary school age in the school curriculum as a core skill; bringing data analysis to life in subjects beyond maths and science, and into extracurricular activities that kids do after school – as recommended by NESTA in its 2015 report Analytic Britain”.
+								                                        
+									
+									jQuery( document ).ready(function() {
+										/* Companies carousel */
+										jQuery('.carousel').slick({
+										  dots: true,
+										  infinite: true,
+										  speed: 300,
+										  lazyLoad: 'ondemand',
+										  slidesToShow: 1,
+										  slidesToScroll: 1,
+										  adaptiveHeight: true
+										});
+									});
