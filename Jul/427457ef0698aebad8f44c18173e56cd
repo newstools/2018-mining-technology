@@ -1,0 +1,15 @@
+ Increasingly businesses are using cloud-based storage systems for both business-critical active data, as well as archive data. The top five types of digital data stored in the cloud are documents (89%), archived data (75%), financial information (71%), personnel information (70%) and images (66%). According to a survey commissioned by OGL, 25% business IT decision-makers placed a value of over £500,000 on their digital data, 14% of which stated their data is worth around £1m. In addition, 51% said they couldn’t go more than a day if they had no access to their digital data, and 25% said they would not be able to work at all if they had no access to their digital data. This makes the theft, loss or damage of digital data a serious problem for businesses. OGL marketing manager Cindy Phillips said: “As an IT solutions and cybersecurity company, we know how much of an impact having a digital data breach could have on a business.  We have worked with companies who have experienced both natural disasters, which has taken down their critical infrastructure, as well as those who have had their systems held to ransom by cyber-criminals.” This highlights the importance of businesses scrutinising the methods they use to store, use and obtain their digital data. However, the survey revealed that one in five businesses don’t have precautions in place to protect their digital network. 2% even claimed they had no plans to implement one. This could prove damaging as cyber-attacks become more common. For example, the 2017 WannaCry cyber-attack that infected more than 300,000 computers across the globe and took down branches of the NHS. Phillips stresses: “Having a well thought out disaster recovery and business continuity plan in place is critical.”
+								                                        
+									
+									jQuery( document ).ready(function() {
+										/* Companies carousel */
+										jQuery('.carousel').slick({
+										  dots: true,
+										  infinite: true,
+										  speed: 300,
+										  lazyLoad: 'ondemand',
+										  slidesToShow: 1,
+										  slidesToScroll: 1,
+										  adaptiveHeight: true
+										});
+									});
