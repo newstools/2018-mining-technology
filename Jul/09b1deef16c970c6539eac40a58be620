@@ -1,0 +1,15 @@
+ The company’s Digital Transformation Institute surveyed more than 1,500 senior executives implementing automation solutions at 750 global financial services organisations and found that adopting intelligent automation could improve efficiency and reduce operational costs. Intelligent automation is when robotics process automation (RPA), artificial intelligence (AI) and business process automation are used in combination. Capgemini found that 45% of financial services organisations believe that internet giants, such as Google, Facebook, or Amazon, will be their main competitors in the next five years. This challenging and highly competitive environment has seen a growth in the use of intelligent automation in an attempt to increase revenue and customer satisfaction. According to the report, 35% of financial services companies have seen a 2 – 5% increase in topline growth due to intelligent automation, and 64% of organisations had improved customer satisfaction by more than 60% through intelligent automation. The report also analysed the potential benefits of implementing intelligence automation for different sectors of the financial services market, with the insurance sector gaining $243bn and $269bn gained in banking and capital markets. Xing Xin, head of US Business Development at Tractable, an artificial intelligence start-up said: “I would say, across financial services, intelligent automation is a revenue driver. It also improves customer satisfaction, because you are fundamentally creating a better experience for the consumer.” However, despite these benefits, companies have been slow to adopt the technology, with only 10% of the companies surveyed having implemented automation at scale. Furthermore, only 4% of organisations have adopted machine learning. The study found that several factors are preventing organisations from moving beyond proof-of-concept to actually deploying intelligent automation, including establishing a clear business case for automation, developing a cohesive intelligent automation strategy and finding resources to implement the technology effectively. Commercial director of Celaton, an artificial intelligence solutions, Gina Gray said that part of the problem was recruiting individuals with an understanding of RPA and AI technologies: “When recruiting for automation talent, we look for both an element of creativity and also skills in business and process analysis. This is to be able to look at a business problem and determine the best techniques and algorithms to use to deliver efficiencies within the process plus deliver the required outcome. Finding talent with combination of these two skills is very difficult.”
+								                                        
+									
+									jQuery( document ).ready(function() {
+										/* Companies carousel */
+										jQuery('.carousel').slick({
+										  dots: true,
+										  infinite: true,
+										  speed: 300,
+										  lazyLoad: 'ondemand',
+										  slidesToShow: 1,
+										  slidesToScroll: 1,
+										  adaptiveHeight: true
+										});
+									});
