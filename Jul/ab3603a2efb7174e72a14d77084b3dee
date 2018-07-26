@@ -1,0 +1,29 @@
+         China’s category seven ban on imports of scrap copper has been finalised, throwing investors into a spin as up to 500,000t of copper equivalent could be removed from the market. Copper has been a powerful asset for China, as the world’s biggest importer by 45%, as the country earned its position as an electronics superpower. So what could this ban mean for the copper market and just how disruptive can scrappage schemes be? We take a look. In other regions, we assess what Peru’s new president has in store for the hard push on sustainable mining operations, ask what’s been done to remediate Samarco mine damage in Brazil three years ago, and uncover the allure of Welsh gold, as opportunistic panners pop up across Wales. And in technology, we speak to Canadian mining company MGX about the potential of three new leaching methods which may be able to improve sustainability, and hear Rio Tinto’s plans to double down on autonomous drilling systems. Click here to read the latest mining industry news and analysis, and join the conversation on Twitter. New president and new direction for Peru
+Peru’s new President, Martín Vizcarra, has come out strongly in favour of mining development as long as it helps communities and considers the environment. The Ministry of Energy and Mines is also creating a series of strategies to fight ‘bad mining’, specifically targeting the pollution of rivers. Will these words be backed by action and what could it mean for a leading producer of several minerals?
+Click to read Category Seven: China’s ban to boost copper
+China has finalised its category seven ban on imports of scrap copper, which could remove as much as 500,000t of copper equivalent from the market, reducing the scrap brought into China by 45%. Copper, a globally strategic metal, has been important for China’s growth as an electronics superpower. So what could this ban mean for the copper market and just how disruptive can scrappage schemes be?
+Click to read Dragon’s hoard: the allure of Welsh gold
+With news that police are investigating an outbreak of gold panning in a river in Wales, we take a look at the history and market for Welsh gold, allegedly the rarest precious metal on earth and by far the most expensive form of gold. Are there any other forms of rare gold out there? We want to find out.
+Click to read Innovation in lithium leaching
+Canadian mining company MGX is currently working on a new method of extracting lithium from oil and gas wastewater, a new leaching method to reduce sulphur and a method of extracting vanadium from petcoke, all of which could prove extremely useful. To find out more MINE speaks to MGX about their research into new and sustainable methods of extraction.
+Click to read Samarco: dealing with disasters
+In 2015, a dam collapse at the Samarco iron ore mine in Brazil killed 19 people and is thought to be the country’s worst ever environmental disaster. Three years on, a class action suit has been launched against BHP and Vale, equal shareowners in the mine, claiming they failed to take preventative action to. Could the companies have done more at the time? And what has been done since to help remediate the area prior to its reopening later this year?
+Click to read The transparency of mine rehabilitation in South Africa  
+While South African mining companies adhere to a ‘polluter pays’ policy for restoring land damaged by spent mines, there are concerns over the informality of the financial reporting rules. National think tank, the Centre for Environmental Rights, has released its latest report into South Africa’s mine rehabilitation funds – MINE looks at the recommendations for how and why the country’s mining industry should change.
+Click to read Mining robots:  Rio Tinto doubles down on autonomous drilling
+Rio Tinto has announced that it will nearly double the number of autonomous drilling systems at its mines in Western Australia. Nine automated drills are expected to be deployed by the end of this year, taking the total to 20. MINE speaks with the mining giant about the rollout of automated drilling systems, and asks: if there is a boom incoming for this increasingly proven technology?
+Click to read Cybersecurity is ad hoc at best and severely lacking at worst, according to EYs latest report on mining firms. 97% of mining companies admit to being unprepared for the digital future despite more than half experiencing a significant cybersecurity incident last year. Do mining companies need to wake up? We find out what more needs to be done. And in other tech news, we examine the impact of Volvo Construction Equipment partnering with mobile operator Telia to pilot 5G mobile for industrial applications. Elsewhere, we assess the potential impact of softening US-North Korea relations and the reserves it could open up, and find out which critical minerals the US is investing in. Plus, we ask whether sand mining contributed to the Hurricane Harvey floods, and with 2017 declared the best year yet for mining by PwC, we look at the record revenues to see how they could inform future decision-making. You can read MINE Magazine on all devices, including mobile. It is still free to read and you can sign up for a subscription to get all the latest news, analysis and insight on the global energy industry delivered straight to your phone. You can also browse our archive to read back issues in our web viewer, available on desktop and on iPad.
+								                                        
+									
+									jQuery( document ).ready(function() {
+										/* Companies carousel */
+										jQuery('.carousel').slick({
+										  dots: true,
+										  infinite: true,
+										  speed: 300,
+										  lazyLoad: 'ondemand',
+										  slidesToShow: 1,
+										  slidesToScroll: 1,
+										  adaptiveHeight: true
+										});
+									});
