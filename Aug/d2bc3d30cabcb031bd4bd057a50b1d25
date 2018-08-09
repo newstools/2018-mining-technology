@@ -1,0 +1,29 @@
+         The newly established Resources 2030 Taskforce aims to help secure the Australian mining industry’s future, ensuring its competitiveness and sustainability. We find out how the initiative is addressing investment, exploration, the environment and technological innovations to inform resource policies that will help Australia stay a leading producer for decades to come. When it comes to sustainability, a number of companies and projects in Australia are already leading the way. We profile ten of the best, from education to clean power and more eco-friendly mining and processing techniques. Also in this issue, we find out how Western Australia can capitalise on its lithium resources by branching out into the production of battery chemicals, check in with Rio Tinto’s expanding automated drilling operations in Pilbara, and speak to BHP about its drone-based site surveying project. Plus, we learn how blockchain could help create more transparent supply chains, and hear from AMMA what working environments for miners will look like in the near future. Click here to read the latest mining industry news and analysis, and join the conversation on Twitter. Resources 2030 Taskforce: bold changes ahead
+Resources Minister Matthew Canavan said a key focus of the Resources 2030 Taskforce would be to identify measures that would help secure the mining industry’s competitiveness. But what does that mean in practice and why is competition lacking in the first place?
+Click to read Making the most of Western Australia’s lithium
+The Association of Mining and Exploration Companies (AMEC) recently urged federal and state governments to ensure Western Australia capitalises on its massive reserves of lithium and other battery minerals. So, what can mining and downstream processing sectors do to make the most of WA’s lithium hoard?
+Click to read How drones are changing the art of mineral surveying
+BHP is trialling drones fitted with military-grade cameras to provide real-time aerial footage and 3D maps of mining sites. But why is the company turning to drones for this important task? We find out.
+Click to read Rio Tinto doubles down autonomous drilling
+Rio Tinto plans to nearly double the number of autonomous drilling systems at its mines in Western Australia. Nine automated drills are expected to be deployed by the end of this year, taking the total to 20. MINE asks: if there is a boom incoming for this increasingly proven technology?
+Click to read Blockchain: the path to supply chain transparency?
+Miners are trialling blockchain technology to track and trace key commodities as they move through the supply chain. We find out how it will work in practice and if it can be used to spot illegal and unwanted activity.
+Click to read Sustainable mining in Australia: the projects leading the way
+From turning toxic mining waste into battery-grade lithium and potash, to finding new ways to fill mine voids and save precious water, we round up the projects that are leading the way in terms of environmental sustainability.
+Click to read How Australian mine working environments are changing
+Flexible hours, automation, wearables and connected technologies are all changing the way Australian mine workers go about their jobs. So what are the trends making an impact and are miners being equipped for the future? We speak to the Australian Mines and Metals Association to find out.
+Click to read Mines across Australia – especially in Queensland and Western Australia – are recovering fast after the long commodities downturn, but firms are struggling to fill positions as they ramp up operations, despite offering massive salaries. We find out how government and industry are working to recruit enough staff to take advantage of a new commodities boom. Australia is a land of mining giants, but such are the riches to be extracted that several junior mining companies have started to make inroads. We take a look at the smaller mining companies leading the charge.  Also in the next issue, we explore new findings on the effect of mining operations on wildlife and the initiatives and regulations pushing for better protection. In tech, we find out what mining companies can do to catch up with the urgent need for better cybersecurity, and hear how the mining industry could benefit from 5G mobile data technology such as Volvo Construction Equipment and Telia’s new 5G system for industrial applications. You can read MINE Magazine on all devices, including mobile. It is still free to read and you can sign up for a subscription to get all the latest news, analysis and insight on the global energy industry delivered straight to your phone. You can also browse our archive to read back issues in our web viewer, available on desktop and on iPad.
+								                                        
+									
+									jQuery( document ).ready(function() {
+										/* Companies carousel */
+										jQuery('.carousel').slick({
+										  dots: true,
+										  infinite: true,
+										  speed: 300,
+										  lazyLoad: 'ondemand',
+										  slidesToShow: 1,
+										  slidesToScroll: 1,
+										  adaptiveHeight: true
+										});
+									});
