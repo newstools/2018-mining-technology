@@ -1,0 +1,29 @@
+         Cybersecurity is ad hoc at best and severely lacking at worst, according to EY’s latest report on mining firms. 97% of mining companies admit to being unprepared for the digital future, despite more than half experiencing a significant cybersecurity incident last year. Do mining companies need to wake up? We find out what more needs to be done. We take a closer look at a new partnership between Volvo Construction Equipment and mobile operator Telia, which aims to pilot 5G mobile technology for industrial applications, and track the key developments at the core of South Africa’s critical mining industry. Elsewhere, we assess the potential impact of softening US-North Korea relations and the mineral reserves it could open up, and find out which critical minerals the US is investing in. Plus, we ask whether sand mining contributed to the Hurricane Harvey floods, and with 2017 declared the best year yet for mining by PwC, we look at the record revenues to see how they could inform future decision-making. Click here to read the latest mining industry news and analysis, and join the conversation on Twitter. 2017: the best year yet for mining?
+A recent PwC report reveals that 2017 was an astonishingly good year for mining companies, with a market cap of $926bn up 30% from the previous year. Molly Lempriere explores what’s behind this growth and considers what it can tell us about the decade ahead.
+Click to read. Opening the lid of North Korea’s untapped mineral reserves
+Landmark discussions between the US and North Korea have led to speculation that the latter’s mineral riches, estimated to be worth around $6tn, could soon be within reach. But what do we know about mining in the secretive, dictatorial nation, and how accurate are the resource estimations? Heidi Vella reports.
+Click to read. Critical minerals scarcity could undo ‘America First’ mining
+President Trump has identified a series of ‘critical’ minerals deemed integral to US national and economic security, which are to be produced domestically. However, questions remain over the longevity, effectiveness and feasibility of the policy, as JP Casey finds out.
+Click to read. Do mining companies need to wake up to the cyber threat?
+A recent report from EY reveals that 97% of mining companies admit their current cybersecurity systems do not meet their needs. Molly Lempriere asks whether mining companies need to wake up to the cyber threat.
+Click to read. Could 5G be the key to unlocking autonomy in deep mines?
+Volvo Construction Equipment is partnering with mobile operator Telia to pilot 5G mobile tech, giving mining an exponential boost in data transfer capabilities. How promising is that extra G and could it unlock the next generation of autonomous vehicles? Molly Lempriere finds out.
+Click to read. Did sand mining exacerbate flooding during Hurricane Harvey?
+In the wake of the devastating flood damage caused by Hurricane Harvey, politicians and community groups have criticised the oversight of the sand mining industry. However, a white paper has countered that the industry’s activities have had the opposite effect. Molly Lempriere asks, which side has it right?
+Click to read. Reforms and restarts: an overview of South African mining
+South Africa’s mining industry is of critical importance to the country, comprising 6.8% of its economy – yet it remains one of its most dangerous sectors. JP Casey tracks the developments at the core of the industry.
+Click to read. Gold is one of the world’s most precious commodities, but its supply chain is dogged by illicit activities. A new white paper published by Thomson Reuters looks at the regulations and recommendations in South America, including those from the OECD, which seek to ensure that gold supply chains are safe and legal. We learn more about the challenges of the industry, in particular artisanal mining, in the continent. With graphite now listed as a strategic mineral in both the US and European Union, bolstered by its use in the creation of graphene, we look at what’s next for the mineral. In Africa, we consider how a stable political environment has led to a mini boom in mining in Mozambique, and investigate whether lawsuits against Glencore regarding its conduct in the Democratic Republic of Congo could spell real trouble for the industry titan. Finally, we find out the best practices for keeping coal miners safe from lung damage, and ask whether the industry is doing enough to protect wildlife.
+								                                        
+									
+									jQuery( document ).ready(function() {
+										/* Companies carousel */
+										jQuery('.carousel').slick({
+										  dots: true,
+										  infinite: true,
+										  speed: 300,
+										  lazyLoad: 'ondemand',
+										  slidesToShow: 1,
+										  slidesToScroll: 1,
+										  adaptiveHeight: true
+										});
+									});
