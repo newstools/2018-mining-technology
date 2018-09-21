@@ -1,0 +1,27 @@
+        Gold is one of the world’s most precious commodities, but its supply chain is dogged by illicit activities. A new white paper published by Thomson Reuters looks at the regulations and recommendations in South America, including those from the OECD, which seek to ensure that gold supply chains are safe and legal. We learn more about the challenges of the industry, in particular artisanal mining, in the continent. With graphite now listed as a strategic mineral in both the US and European Union, bolstered by its use in the creation of graphene, we look at what’s next for the mineral. In Africa, we consider how a stable political environment has led to a mini boom in mining in Mozambique, and investigate whether lawsuits against Glencore regarding its conduct in the Democratic Republic of Congo could spell real trouble for the industry titan. Finally, we find out the best practices for keeping coal miners safe from lung damage, and ask whether the industry is doing enough to protect wildlife. Click here to read the latest mining industry news and analysis, and join the conversation on Twitter. Could graphene batteries change the face of graphite mining?
+While not yet commercially used in the industry, man-made ‘super mineral’ graphene holds huge potential for batteries. Derived from graphite, both commodities are expected to see huge growth in the coming years. Molly Lempriere finds out what lies ahead for these minerals.
+Click to read. The rising risk of gold supply chains in South America
+Gold is one of the world’s most precious commodities, but in South America its production is increasingly dogged by illicit activities. Heidi Vella discusses the challenges with Jesse Spiro, global head of threat finance and emerging risks for Thomson Reuters Financial & Risk.
+Click to read. Mining Mozambique: from rubies to graphite investors
+Mozambique’s plethora of untapped natural resources has led to a flurry of foreign investments in its burgeoning mining sector. So, with investors newly focused on the southeast African nation, what does the future hold? Heidi Vella reports.
+Click to read. Litigious shareholders put world’s biggest miner on the ropes
+Amid ongoing investigations, shareholders at Glencore are suing the company, after concerns over connections to corrupt mining activities in the Congo caused shares to plummet. Molly Lempriere considers whether this could spell trouble for the mining titan.
+Click to read. Studying the health effects of underground coal dust
+A new study shows that current regulations aren’t doing enough to control exposure to coal dust and that more needs to be done to reverse an unexpected rise in coal-related lung disease in the US. Talal Husseini digs into the report to understand the challenges in stopping the rise of black lung.
+Click to read. Urgent concern: how mining damages wildlife on land and at sea
+The work of mining companies can have a significant – and often destructive – impact on local wildlife. Guidelines and legislation operating above the level of national governments could help to guide mining towards a less destructive future, but questions remain, as JP Casey finds out.
+Click to read. The next issue of MINE is the second special issue of MINE Australia. We find out more about the smaller mining companies leading the charge in Australia and how their business models differ from more traditional mining giants. Mines across Queensland and Western Australia are quickly recovering from the commodities downturn, but many firms are still struggling to fill positions despite offering attractive salaries. Can Australian miners recruit enough staff to take advantage of a new boom? We also explore Australia’s budding battery business, with several companies starting to cash in as demand for energy storage solutions and electric cars soars, and consider the risks posed by mining to wildlife, after a new snake species discovered in Australia was designated at risk from local mining activities. Finally, we ask whether mining companies need to wake up to the threats posed by potential holes in their cybersecurity systems, and find out how 5G mobile technology is helping to unlock the next generation of autonomous mining vehicles.
+								                                        
+									
+									jQuery( document ).ready(function() {
+										/* Companies carousel */
+										jQuery('.carousel').slick({
+										  dots: true,
+										  infinite: true,
+										  speed: 300,
+										  lazyLoad: 'ondemand',
+										  slidesToShow: 1,
+										  slidesToScroll: 1,
+										  adaptiveHeight: true
+										});
+									});
