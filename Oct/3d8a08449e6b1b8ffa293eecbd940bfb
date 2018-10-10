@@ -1,0 +1,29 @@
+         Australia is a land of mining giants, but such are the riches to be extracted that several junior mining companies have started to make inroads. So, who are the smaller mining companies leading the charge and how do their business models differ? We also consider whether miners need to wake up to the threat of cyberattacks, after an EY report revealed that 97% of mining companies admit their current cybersecurity systems do not meet their needs, take a closer look at Volvo’s plans to unlock the next generation of autonomous vehicles by using 5G mobile technology, and explore Australia’s budding battery business. In association with GlobalData, we round up the biggest projects leading the mining turnaround in the Asia Pacific region, and ask whether miners are doing enough to protect wildlife, after a new snake species found in Australia was immediately designated at risk because of nearby mining operations. Plus, we learn how Australian miners can recruit enough staff to take advantage of a new boom as the industry recovers from the commodities downturn. Click here to read the latest mining industry news and analysis, and join the conversation on Twitter. Asia Pacific: leading the global mining sector turnaround
+The global mining sector is on the cusp of a turnaround, with Asia Pacific leading the way in terms of number of projects and capex value over the next two years. In association with GlobalData, we take a look at the biggest projects in the region.
+Read more. Australia’s junior miners take heart in clean energy minerals
+Australia is the land of mining giants, but it’s not just the big players that can prosper. Targeting the future demand for ‘clean energy’ minerals, the juniors are also making big moves. Heidi Vella takes a look at some of the most compelling projects.
+Read more. Do mining companies need to wake up to the cyber threat?
+A recent report from EY reveals that 97% of mining companies admit their current cybersecurity systems do not meet their needs. Molly Lempriere asks whether mining companies need to wake up to the cyber threat.
+Read more. Could 5G be the key to unlocking autonomy in deep mines?
+Volvo Construction Equipment is partnering with mobile operator Telia to pilot 5G mobile tech, giving mining an exponential boost in data transfer capabilities. How promising is that extra G and could it unlock the next generation of autonomous vehicles? Molly Lempriere finds out.
+Read more. Australia’s budding battery business
+Australia is incredibly rich in the minerals required to make batteries, with several companies already starting to cash in as demand soars. Molly Lempriere finds out which companies are leading the way and how promising research projects are progressing.
+Read more. Do Australians still want to be miners?
+Mines across Australia are recovering fast after a long downturn, but many firms are struggling to fill positions, despite offering attractive salaries. How can Australian mining firms recruit enough staff to take advantage of a new commodities boom? Chris Lo reports.
+Read more. Urgent concern: how mining damages wildlife on land and at sea
+The work of mining companies can have a significant – and often destructive – impact on local wildlife. Guidelines and legislation operating above the level of national governments could help to guide mining towards a less destructive future, but questions remain, as JP Casey finds out.
+Read more. Alba Mineral Resources has bought a stake in the storied Clogau Gold Mine complex in Wales, aiming to restart gold mining operations by the end of the year. We sit down with the company to hear more about the prospects for a Welsh gold renaissance in the years to come. Also in the next issue, we find out whether a recent move from Peru’s President to open the country’s reserves of lithium could unlock the ‘lithium triangle’ in South America, investigate a new study that has shown how big data can predict where to find new mineral deposits, and delve deeper into Resolute Mining’s Syama mine in Mali, which is expected to become the world’s first fully automated mine. Plus, we find out more about the benefits of integrating battery chemical production into a mine site’s refining operations, and speak to Asteroid Mining Corporation about the possibility of mining the tens of thousands of asteroids that orbit Earth.
+								                                        
+									
+									jQuery( document ).ready(function() {
+										/* Companies carousel */
+										jQuery('.carousel').slick({
+										  dots: true,
+										  infinite: true,
+										  speed: 300,
+										  lazyLoad: 'ondemand',
+										  slidesToShow: 1,
+										  slidesToScroll: 1,
+										  adaptiveHeight: true
+										});
+									});
