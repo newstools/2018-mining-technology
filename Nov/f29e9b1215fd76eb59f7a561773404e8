@@ -1,0 +1,27 @@
+        While most mining is done on dry land, a number of mining vessels are in operation on coastal deposits, particularly in the diamond industry. We take a look at the world of mining ships, and speak to Wärtsilä about its plans to refit De Beers’ diamond mining ship. We also consider the opportunities for driverless vehicles in mining operations and take a closer look at antimony following news of a new plant in Oman that could supply up to 20% of the world’s antimony market. We find out more about a project between mining technology developer Maptek and augmented reality experts LlamaZOO that aims to create real-time 3D visualisation for mines, and explore the new Mandela mining precinct in Johannesburg, South Africa, which aims to support local innovation and address issues such as mineworkers’ health and safety. Finally, in this last issue of 2018, we investigate the recent protests that have been taking place outside of the Amulsar mine in Armenia and the implications this could have on the country’s mining industry. Click here to read the latest mining industry news and analysis, and join the conversation on Twitter. Giant mining vessels: how high-quality gems are exploited from the sea
+While most mining is done on dry land, off the coast of Namibia, De Beers is searching for diamonds on the seabed. To scale up its operation, the company recently signed a refitting deal with Wärtsilä. Heidi Vella discovers more about marine mining technology.
+Read more. Autonomous mining: the challenges of independently minded vehicles
+Transport and haulage remain the most dangerous jobs in mining, with most accidents occurring when humans work with vehicles. With opportunities for driverless vehicles on the rise, truck manufacturer ETF is optimistic about the future of automation, as JP Casey finds out.
+Read more. Antimony: will China continue to control supply?
+Antimony is a little-known metalloid used in lead-acid batteries and fire retardants, and while deposits are found worldwide, China dominates market supply. However, a new plant opening in Oman aims to take significant market share, but can it compete? Heidi Vella reports.
+Read more. A new dimension: bringing mine sites to life in 3D
+Visualisation specialist LlamaZOO has partnered with mining tech firm Maptek to bring advanced 3D visualisation functions to the mining sector. Chris Lo considers what this project will bring to the visualisation space.
+Read more. Mining Armenia: protests test the Velvet Revolution
+In May this year, a series of peaceful protests in Armenia saw Nikol Pashinyan swept to the office of prime minister. As periods of unrest gave way to a new government, questions have arisen over how Armenia’s critical mining industry could be affected. JP Casey considers the impact a new regime could have on mining.
+Read more. South Africa’s new mining precinct: supporting local innovation
+In September, South Africa launched the Mandela Mining Precinct, an outcome of the Mining Phakisa, a countrywide development project. Molly Lempriere profiles the new mining precinct, which aims to support local innovation and address issues such as mineworkers’ health and safety.
+Read more. The South African Government has finally approved its much-delayed mining charter to boost black ownership of projects. However, major components, such as the government taking a 20% stake in all new projects, have been removed due to industry complaints. We look at the mining charter’s final form and ask if it will be an effective instrument for the government’s goals in the mining sector. Also in the first issue of the New Year, we take a closer look at the effectiveness of mining traceability fees in countries around the world, speak to mining analysts to gain their insights on the merger of Barrick Gold and Randgold Resources, and look at the problems with uranium exploration. Finally, we speak to the team behind a new technique using microwave energy to separate copper grains from the ore, which reduces the energy needed to extract the metal, and take a look inside Guinea’s new African Minerals Development Centre.
+								                                        
+									
+									jQuery( document ).ready(function() {
+										/* Companies carousel */
+										jQuery('.carousel').slick({
+										  dots: true,
+										  infinite: true,
+										  speed: 300,
+										  lazyLoad: 'ondemand',
+										  slidesToShow: 1,
+										  slidesToScroll: 1,
+										  adaptiveHeight: true
+										});
+									});
