@@ -1,0 +1,27 @@
+        The South African Government has finally approved its much-delayed mining charter to boost black ownership of projects. However, major components, such as the government taking a 20% stake in all new projects, have been removed due to industry complaints. We look at the mining charter’s final form and ask if it will be an effective instrument for the government’s goals in the mining sector. Also in the first issue of the new year, we take a closer look at the effectiveness of mining traceability fees in countries around the world, consider whether M&As are a logical choice for companies looking to pool expertise in the mining sector following the proposed $18bn mega-merger of Barrick Gold and Randgold Resources, and look at the problems with uranium exploration. Finally, we speak to the team behind a new technique using microwave energy to separate copper grains from the ore, which reduces the energy needed to extract the metal, and take a look inside Guinea’s new African Minerals Development Centre. The final shape of South Africa’s new mining charter
+South Africa has finally approved its much-delayed mining charter. While it is designed to boost black ownership, some have argued that it could leave local communities even further out of the loop. Molly Lempriere considers whether it will be an effective instrument.
+Read more. Rwandan miners want to scrap traceability fees, but are they justified?
+The Rwandan Mining Association is calling for a locally implemented due diligence and traceability system to be scrapped, claiming it is too expensive and unnecessary, as Rwanda is a conflict-free country. Are they right? Heidi Vella investigates.
+Read more. Barrick-Randgold: how will gold mining’s biggest merger shape the industry?
+The $18bn mega-merger of Barrick Gold and Randgold Resources was one of the mining industry’s biggest moments in 2018. Are M&As a logical choice for companies looking to pool expertise, or do they go deeper, providing crucial technological opportunities? Talal Husseini reports.
+Read more. Development hell: uranium projects caught at a market crossroad
+The uranium market is prompting cautious optimism for observers after a 30% price rally since spring 2018, but developing a uranium mine remains a risky proposition. With the market at a crossroads, is the optimism justified? Chris Lo reports.
+Read more. MicroHammer: how microwave energy could transform the mining industry
+A team of scientists has won the prestigious Colin Campbell Mitchell Award for their MicroHammer project, an ore pre-treatment process that uses microwave energy to eliminate inefficiencies. JP Casey finds out more about its potential in mining.
+Read more. A look inside the African Minerals Development Centre
+In September, Guinea was appointed as host of the headquarters of the African Minerals Development Centre by the African Union, a body dedicated to harnessing the continent’s mineral wealth. What does the centre hope to achieve, and why was Guinea chosen? Molly Lempriere takes a closer look.
+Read more. China’s Belt and Road Initiative is so vast that will result in the global demand for copper rising by 22% by 2027, according to the International Copper Association. The demand is likely to affect over 60 Eurasian countries and have ramifications across the globe. But how will it play out, and what do miners and investors need to know? We also find out how Russian miner Nornickel is embracing digital technologies to stay ahead of the curve in the battery metals sector, investigate the main objectives of the Innovation for Cleaner Safer Vehicles programme, which brings together 27 mining companies and equipment suppliers including Caterpillar, GE and Komatsu, and talk to Jubilee Metals Group about its plans to reprocess large historic tailings in the Zambian town of Kabwe. Finally, we explore Nova Scotia’s Mining ROCKS! Competition, which offers cash prizes for high school students who make the best videos celebrating mining’s benefits for society, and find out more about a new challenge to encourage Canadian innovators to develop new, clean technologies for crushing mined rock.
+								                                        
+									
+									jQuery( document ).ready(function() {
+										/* Companies carousel */
+										jQuery('.carousel').slick({
+										  dots: true,
+										  infinite: true,
+										  speed: 300,
+										  lazyLoad: 'ondemand',
+										  slidesToShow: 1,
+										  slidesToScroll: 1,
+										  adaptiveHeight: true
+										});
+									});
